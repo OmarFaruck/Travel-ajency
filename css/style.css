@@ -1,0 +1,403 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img.logo {
+    width: 114.91px;
+    height: 33.99px; 
+}
+
+a.nav-link {
+    color: #000000 !important;
+    font-size: 18px;
+    font-weight: 600;
+}
+/* *********************navber end**************************** */
+ /* *********************Travel, enjoy start**************************** */
+ .Best h4 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #DF6951;
+    text-align: center;
+}
+.Best h5 {
+    font-family: 'Volkhov';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 89px;
+    letter-spacing: -0.04em;
+    color: #181E4B;
+    /* text-align: center; */
+}
+.Best p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 30px;
+    color: #5E6282;
+    /* text-align: center; */
+}
+button.Find {
+    background: #F1A501;
+    box-shadow: 0px 20px 35px rgb(241 165 1 / 15%);
+    border-radius: 10px;
+    padding: 16px;
+    border: none; 
+    font-family: 'Abhaya Libre ExtraBold';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.container-fluid.enjoystart img.img-fluid.mx-auto.d-block.travel {
+    background: #FFF1DA;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%);  
+    position: relative;
+}
+img.img-fluid.mx-auto.slider4 {
+    margin-top: 64px;
+}
+.container-fluid.Destinations img.img-fluid.mx-auto.d-block {
+    /* background: #FFF1DA; */
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%);  
+    position: relative;
+}
+
+img.img-fluid.plan {
+    position: absolute;
+    transform: rotate(-.84deg); 
+    z-index: 2;
+    width: 16%;
+}
+button.play {
+    padding: 10px;
+    margin-left: 15px;
+    border: none;
+    background-color: #DF6951;
+    border-radius: 50%; 
+}
+span.Play {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: #686D77;
+    text-align: center;
+    margin-left: 15px;
+}
+/* *********************Travel, enjoy end****************************  */
+/* *********************card start****************************  */
+p.card1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 16px; 
+    margin-top: 70px;
+    color: #5E6282;
+}
+h3.card2 {
+    font-family: 'Volkhov';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 43px;
+    line-height: 64px; 
+    text-transform: capitalize;
+    color: #14183E;
+}
+img.card-img-top.img-fluid {
+    width: 90px; 
+}
+h5.card-title {
+    font-family: 'Open Sans'; 
+    font-weight: 600; 
+    line-height: 27px; 
+    color: #1E1D4C;
+}
+p.card-text {
+    font-family: 'Poppins'; 
+    font-weight: 500; 
+    line-height: 26px; 
+    color: #5E6282;
+}
+/* *********************card end****************************  */
+/* *********************Top Destinations start ****************************  */
+
+.text-center.Top h3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600; 
+    line-height: 27px;
+    text-align: center;
+    color: #5E6282;
+}
+.text-center.Top h2 {
+    font-family: 'Volkhov';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 64px; 
+    text-align: center;
+    text-transform: capitalize; 
+    color: #14183E;
+    margin-bottom: 30px;
+}
+p.demo1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 124.5%;
+    color: #5E6282;
+}
+p.demo2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 124.5%;
+    color: #5E6282;
+}
+p.demo3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 124.5%;
+    color: #5E6282;
+}
+img.img-fluid.mx-auto.slider5 {
+    margin-top: 68px;
+    margin-bottom: 34px;
+}
+/* *********************Book your next trip start end****************************  */
+
+.container-fluid.Bookyour h5 { 
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px; 
+    color: #5E6282;
+}
+.container-fluid.Bookyour h1 { 
+    font-family: 'Volkhov';
+    font-style: normal;
+    font-weight: 700;
+    /* font-size: 50px; */
+    /* line-height: 64px; */
+    text-transform: capitalize;
+    color: #14183E;
+}
+.container-fluid.Bookyour h4 { 
+    font-family: 'Poppins';
+    margin-top: 8px;
+    margin-left: 22%; 
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 124.5%;
+    letter-spacing: 0.015em;
+    color: #080809;
+}
+.container-fluid.Bookyour p { 
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 124.5%;
+    letter-spacing: -0.005em;
+    color: #84829A; 
+    margin-left: 22%;
+}
+.container-fluid.Bookyour p.Ong {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px !important; 
+    color: #84829A;
+}
+.rightside.adddiv {
+    background: #FFFFFF;
+    box-shadow: 0px 100px 80px rgb(0 0 0 / 2%), 0px 64.8148px 46.8519px rgb(0 0 0 / 2%), 0px 38.5185px 25.4815px rgb(0 0 0 / 1%), 0px 20px 13px rgb(0 0 0 / 1%), 0px 8.14815px 6.51852px rgb(0 0 0 / 1%), 0px 1.85185px 3.14815px rgb(0 0 0 / 0%);
+    border-radius: 18px;
+} 
+.rightside {
+    background: #FFFFFF;
+    box-shadow: 0px 100px 80px rgb(0 0 0 / 2%), 0px 64.8148px 46.8519px rgb(0 0 0 / 2%), 0px 38.5185px 25.4815px rgb(0 0 0 / 1%), 0px 20px 13px rgb(0 0 0 / 1%), 0px 8.14815px 6.51852px rgb(0 0 0 / 1%), 0px 1.85185px 3.14815px rgb(0 0 0 / 0%);
+    border-radius: 26px;
+    margin-bottom: 15px;
+    padding-bottom: 30px;
+}
+h5.Trips {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px; 
+    letter-spacing: -0.015em;
+    color: #191922;
+    display: inline-block; 
+}
+h6.Choose {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 124.5%;
+    color: #5E6282;
+}
+h6.Lorem {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 124.5%;
+    color: #5E6282;
+}
+i.material-icons {
+    background-color: #F0BB1F;
+    padding: 18px;
+    border-radius: 50%;
+}
+i.fa.fa-car {
+    background-color: #4A5981;
+    padding: 15px;
+    border-radius: 50%;
+}
+/* *********************Book your next trip end****************************  */
+/* *********************Testimonials start****************************  */
+.content.mx-auto {
+    background: #FFFFFF;
+    box-shadow: 0px 100px 80px rgb(0 0 0 / 2%), 0px 64.8148px 46.8519px rgb(0 0 0 / 2%), 0px 38.5185px 25.4815px rgb(0 0 0 / 1%), 0px 20px 13px rgb(0 0 0 / 1%), 0px 8.14815px 6.51852px rgb(0 0 0 / 1%), 0px 1.85185px 3.14815px rgb(0 0 0 / 0%);
+    border-radius: 10px;
+    padding: 28px;
+}
+.content h6 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+    color: #5E6282;
+}
+.container-fluid.Testimonials p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    text-transform: uppercase;
+    color: #5E6282;
+}
+.container-fluid.Testimonials h5 {
+    font-family: 'Volkhov';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 64px;
+    text-transform: capitalize;
+    color: #14183E;
+    width: 80%;
+    align-items: center;
+}
+/* *********************Testimonials end****************************  */
+/* *********************Subscribe start****************************  */
+.container.Subscribes { 
+    padding-bottom: 40px;
+    background: #DFD7F9;
+    opacity: 0.5;
+    border-radius: 129px 20px 20px 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 129px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    -webkit-border-radius: 129px 20px 20px 20px;
+    -moz-border-radius: 129px 20px 20px 20px;
+    -ms-border-radius: 129px 20px 20px 20px;
+    -o-border-radius: 129px 20px 20px 20px;
+} 
+p.Subscribe.mx-auto {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 33px;
+    line-height: 54px;
+    text-align: center;
+    color: #5E6282;
+    width: 100%;
+    padding-top: 50px;
+    
+    
+}
+button.btn.submit {
+    background: #FF8269;
+    padding: 11px;
+    border-radius: 15px;
+}
+/* *********************Subscribe end****************************  */
+/* *********************footer start****************************  */
+.container-fluid.footer h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 66px;
+    color: #181E4B;
+}
+.container-fluid.footer p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 124.5%;
+    color: #5E6282;
+}
+.container-fluid.footer h2 {
+    margin-top: 9px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700; 
+    line-height: 124.5%;
+    color: #080809;
+}
+.container-fluid.footer a {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500; 
+    line-height: 124.5%;
+    color: #5E6282;
+    text-decoration: none;
+    /* text-align: center; */
+}
+.container-fluid.footer a p{
+  font-size: 20px;
+  /* margin-left: 33px; */
+  line-height: 18px;
+}
+h5.app {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    text-align: center; 
+    letter-spacing: 0.005em;
+    color: #5E6282;
+    margin-top: 15px;
+}
+h6.text-center {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500; 
+    line-height: 124.5%;
+    color: #5E6282;
+}
+/* *********************footer end****************************  */
